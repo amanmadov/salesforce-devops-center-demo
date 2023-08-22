@@ -1,2 +1,2 @@
-# salesforce-devops-center-demo
-Repo for testing salesforce devops center features
+# Salesforce Devops Center Demo Repo
+
