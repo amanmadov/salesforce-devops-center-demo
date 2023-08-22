@@ -230,6 +230,9 @@
         <layout>ProcessException-Process Exception Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Proposal__c-Proposal Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Refund-Refund Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
